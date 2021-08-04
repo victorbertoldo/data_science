@@ -4,3 +4,4 @@
 /extras/dados/*.html
 /extras/dados/*.json
 /extras/dados/*.xlsx
+/out/*.csv
